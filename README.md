@@ -13,6 +13,9 @@ This project is a web-based implementation of the Game of Life using Angular 15.
 
 4. Press the "Space" key to go to the next generation of cells. You can also keep the key pressed to see how your pattern evolves over time.
 
+## Live demo
+You can try out the game of life in action at the following link: https://game-of-life-nine-mauve.vercel.app/
+
 
 ## Development server
 
